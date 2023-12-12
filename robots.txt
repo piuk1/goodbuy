@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://piuk1.github.io/goodbuy/sitemap.xml
+Sitemap: https://www.buyofficial.us/sitemap.xml
