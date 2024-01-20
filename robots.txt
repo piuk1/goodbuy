@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://piuk1.github.io/goodbuy/sitemap.xml
