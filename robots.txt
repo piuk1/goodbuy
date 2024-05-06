@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /media/
 Disallow: /posts/
+Disallow: /responsive/
 Disallow: /.webp/
 Sitemap: https://www.buyofficial.us/sitemap.xml
